@@ -26,7 +26,7 @@ The fastest way to delete your account is directly in the app:
 
 If you cannot access the app, you may request deletion by email:
 
-1. Send an email to **support.winxx@gmail.com** from the email address associated with your account.
+1. Send an email to **support.customer.dev@gmail.com** from the email address associated with your account.
 2. Use the subject line: **"Delete my account"**.
 3. Include any details that help us locate your account (for example, the username you registered with).
 
@@ -66,4 +66,4 @@ Deleting your account does **not** automatically cancel an active subscription. 
 For any questions about account or data deletion, contact us at:
 
 **Insect ID Lens**
-Email: support.winxx@gmail.com
+Email: support.customer.dev@gmail.com

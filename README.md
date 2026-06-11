@@ -34,4 +34,4 @@ npm start
 3. Framework preset is auto-detected as **Next.js** — no configuration needed.
 4. Deploy.
 
-Contact: support.winxx@gmail.com
+Contact: support.customer.dev@gmail.com

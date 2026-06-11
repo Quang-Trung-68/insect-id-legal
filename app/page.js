@@ -38,7 +38,7 @@ export default function Home() {
       </div>
 
       <footer className="footer">
-        © 2026 Insect ID Lens · support.winxx@gmail.com
+        © 2026 Insect ID Lens · support.customer.dev@gmail.com
       </footer>
     </main>
   );

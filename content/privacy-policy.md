@@ -125,4 +125,4 @@ We may update this Privacy Policy from time to time to reflect changes in our pr
 For questions, privacy requests, or to exercise your data rights, please contact us at:
 
 **Insect ID Lens**
-Email: support.winxx@gmail.com
+Email: support.customer.dev@gmail.com

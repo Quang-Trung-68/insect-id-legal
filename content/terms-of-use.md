@@ -177,7 +177,7 @@ If you downloaded the Application from the Apple App Store or are using it on an
 For questions, complaints, or claims regarding the Service:
 
 **Insect ID Lens**
-Email: support.winxx@gmail.com
+Email: support.customer.dev@gmail.com
 
 For copyright-related inquiries (DMCA notices):
-Email: support.winxx@gmail.com
+Email: support.customer.dev@gmail.com
